@@ -1,0 +1,19 @@
+#MainDisplay{
+    -fx-background-image: url("main_background.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 816 506;
+    -fx-background-position: center;
+}
+.button {
+    -fx-background-color: none;
+    -fx-text-fill: black;
+    -fx-border-color: black;
+    -fx-padding: 10px;
+    -fx-border-width: 2px;
+    -fx-border-radius: 30%;
+    -fx-font-weight: bold;
+}
+.label{
+    -fx-font-family: Avenir Heavy;
+    -fx-font-weight: bold;
+}

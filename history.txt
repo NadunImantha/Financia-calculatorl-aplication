@@ -1,0 +1,45 @@
+<-------------------  COMPOUND SAVINGS  ------------------->
+( 27/07/20   19:02:47 )
+	Capital Amount :  $20000
+	Interest Rate : 6%
+	Time Period : 10 years
+	Monthly Addition :  $83.33
+	Future Value :  $50044.0
+
+<-------------------  COMPOUND SAVINGS  ------------------->
+( 27/07/20   19:03:08 )
+	Capital Amount :  $20000
+	Interest Rate : 6%
+	Time Period : 10 years
+	Monthly Addition :  $83.33
+	Future Value :  $50044.0
+
+<-------------------  COMPOUND SAVINGS  ------------------->
+( 27/07/20   19:04:06 )
+	Capital Amount :  $20000
+	Interest Rate : 6%
+	Time Period : 10.0 years
+	Monthly Addition :  $83.33
+	Future Value :  $50044
+
+<-------------------  COMPOUND SAVINGS  ------------------->
+( 27/07/20   19:04:15 )
+	Capital Amount :  $20000
+	Interest Rate : 6%
+	Time Period : 10 years
+	Monthly Addition :  $83.33
+	Future Value :  $50044
+
+<-------------------  SIMPLE SAVINGS  ------------------->
+( 27/07/20   19:04:45 )
+	Capital Amount :  $20000
+	Interest Rate : 6%
+	Time Period : 10 years
+	Future Value :  $32000.0
+
+<-------------------  SIMPLE SAVINGS  ------------------->
+( 27/07/20   19:07:15 )
+	Capital Amount :  $20000
+	Interest Rate : 6.0%
+	Time Period : 10 years
+	Future Value :  $32000

@@ -1,0 +1,20 @@
+#backBTN{
+    -fx-background-color: none;
+    -fx-background-image: url("back.png");
+    -fx-background-size: cover;
+    -fx-min-width: 60px;
+    -fx-min-height: 60px;
+}
+#calculateBTN{
+    -fx-padding: 10px;
+    -fx-background-color: none;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-border-radius: 30%;
+    -fx-font-size: 16px;
+    -fx-font-weight: bolder;
+
+}
+#PaneImage{
+    -fx-background-image: url("footer_1.png");
+}
